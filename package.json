@@ -1,0 +1,18 @@
+{
+  "name": "shift-survivor",
+  "private": true,
+  "version": "1.1.1",
+  "type": "module",
+  "description": "SHIFT SURVIVOR — a dual-world survivor shooter for GitHub Game Off 2026",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node tests/unit.mjs && node tests/sim.mjs",
+    "package": "node scripts/package.mjs"
+  },
+  "devDependencies": {
+    "archiver": "^7.0.1",
+    "vite": "^5.4.11"
+  }
+}
