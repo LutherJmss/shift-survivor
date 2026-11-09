@@ -1471,7 +1471,7 @@ export class Game {
     this._text('P/ESC PAUSE - F FULLSCREEN', this.vw / 2, 230, 8, '#8a94b8')
     this._text('WINDOWS: USE Q/E/RMB IF SHIFT STICKS', this.vw / 2, 242, 8, '#8a94b8')
     this._text('SURVIVE 8 MIN - DEFEAT THE ECLIPSE LORD', this.vw / 2, 254, 8, '#ffd23f')
-    this._text('2026 AUTHOR_NAME - MIT LICENSE', this.vw / 2, 264, 8, '#4a4a6a')
+    this._text('2026 XIAXIA YU - MIT LICENSE', this.vw / 2, 264, 8, '#4a4a6a')
   }
 
   /* ---------------- UI 工具 ---------------- */

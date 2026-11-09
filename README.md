@@ -1,4 +1,3 @@
-<!-- TODO: replace AUTHOR_NAME with the real author name before publishing (README / LICENSE / itch page). -->
 
 # SHIFT SURVIVOR
 
@@ -114,7 +113,7 @@ included.
 
 ## Credits
 
-- Game, code, pixel art, sound design: AUTHOR_NAME
+- Game, code, pixel art, sound design: Xiaxia Yu
 - Font: **Press Start 2P** by CodeMan38 / The Press Start 2P Project Authors — SIL Open Font
   License 1.1. License text: [`public/fonts/OFL-LICENSE.txt`](public/fonts/OFL-LICENSE.txt).
   The font is bundled locally (`public/fonts/PressStart2P.ttf`); no web font CDN is used.

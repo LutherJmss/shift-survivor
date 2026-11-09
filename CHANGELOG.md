@@ -47,6 +47,7 @@ can shift per-seed outcomes slightly in this chaotic system: an independent reru
 package measured never 3845 / 213 s / level 20.4, spam 3777 / 171 s / 18.8, smart 12356 / 488 s /
 21.0 / 6.4 perfects — spam/smart 31 %, min winning score 11795 > max non-winning score 5879.
 All five assertions PASS in both environments; treat per-run numbers as environment-specific.
+Author credit set to Xiaxia Yu (README / LICENSE / title screen).
 
 ## v1.1.0 — 2026-11-08
 
